@@ -3,11 +3,16 @@
 /**
  * main - Entry point
  *
+ * Description: This is the main function that prints a string
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char myString[] ="Programming is like building a multilingual puzzle";
-	puts(myString);	
+	char myString[] = "Programming is like building a multilingual puzzle";
+
+	puts(myString);
+
 	return (0);
 }
+
